@@ -1,0 +1,8 @@
+[INFO] Program boot succesful
+[INFO] Initializing libraries
+[WARNING] Some extensions may be outdated, please update
+[ERROR] Failed to load genericLib
+[ERROR] Failed to load curLib
+[ERROR] LibOfRuina 1.7 is outdated, some functions may not work
+[WARNING] One or more libraries may not have been loaded properly
+[ERROR] Program failed to boot
